@@ -1,0 +1,8 @@
+[submodule "projects/poulet-jase"]
+	path = projects/poulet-jase
+	url = git@github.com:wasef81194/fr-cyu-lpdw-student-project-2022-poulet-JASE.git
+	branch = main
+[submodule "chicken-docker"]
+	path = chicken-docker
+	url = git@github.com:ophelie-rochefeuille/fr-cyu-lpdw-student-project-2022-chicken-docker
+	branch = main
