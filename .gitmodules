@@ -6,3 +6,11 @@
 	path = chicken-docker
 	url = git@github.com:ophelie-rochefeuille/fr-cyu-lpdw-student-project-2022-chicken-docker
 	branch = main
+[submodule "projects/chicken-delivery"]
+	path = projects/chicken-delivery
+	url = git@github.com:Ki2lian/fr-cyu-lpdw-student-project-2022-chicken-delivery
+	branch = main
+[submodule "projects/projet-poulet"]
+	path = projects/projet-poulet
+	url = git@github.com:CantinDeBrunoy/fr-cyu-lpdw-student-project-2022--projet-poulets-
+	branch = main
