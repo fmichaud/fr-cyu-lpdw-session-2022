@@ -14,3 +14,7 @@
 	path = projects/projet-poulet
 	url = git@github.com:CantinDeBrunoy/fr-cyu-lpdw-student-project-2022--projet-poulets-
 	branch = main
+[submodule "course_materials/wiki"]
+	path = course_materials/wiki
+	url = git@github.com:fmichaud/fr-cyu-lpdw-session-2022.wiki.git
+	branch = master
